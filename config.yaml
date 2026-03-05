@@ -1,0 +1,17 @@
+building:
+  name: "HORSE CFT"
+  location: "Rua da Junqueira, Cacia, 3800-640 Aveiro, Portugal"
+  floor_height_m: 3.5
+  total_area_m2: 950
+
+afi:
+  P_floor: 1.0
+  D_floor: 1.0
+  F_floor: 0.01
+  F_safety_min: 0.50
+
+hvac:
+  capacity_W: 60000.0
+  COP: 3.2
+  setpoint_working: 21.0
+  setpoint_standby: 14.0
